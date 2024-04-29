@@ -1,0 +1,16 @@
+body,
+html,
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.all-products {
+  transform: scale(0.9);
+}
+button {
+  padding: 1em;
+  background-color: black;
+  color: white;
+  font-size: medium;
+}
